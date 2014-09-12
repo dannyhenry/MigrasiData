@@ -1,0 +1,34 @@
+Migrasi From MYSQL To ORACLE 
+Source Schema : hr 
+Destination Schema : COBAMIGRASI 
+Migration Type : Full Migration 
+Migration Time : Tue Jul 22 11:13:20 ICT 2014 - Tue Jul 22 11:13:24 ICT 2014
+##COUNTRIES
+     Sukses : 26 
+     Gagal  : 0 
+##DEPARTMENTS
+     Sukses : 28 
+     Gagal  : 0 
+##EMPLOYEES
+     Sukses : 108 
+     Gagal  : 0 
+##JOB_HISTORY
+     Sukses : 11 
+     Gagal  : 0 
+##JOBS
+     Sukses : 20 
+     Gagal  : 0 
+##LOCATIONS
+     Sukses : 24 
+     Gagal  : 0 
+##REGIONS
+     Sukses : 5 
+     Gagal  : 0 
+##TEST
+     Sukses : 0 
+     Gagal  : 0 
+ 
+Total Proses   : 256 Process 
+Total Sukses   : 256 Proccess 
+Total Gagal    : 0 Process 
+

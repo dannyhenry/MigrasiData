@@ -1,0 +1,30 @@
+ - Mon Jul 21 05:08:23 ICT 2014
+##COUNTRIES
+Sukses : 25 
+Gagal : 0 
+##DEPARTMENTS
+Sukses : 28 
+Gagal : 0 
+##EMPLOYEES
+Sukses : 108 
+Gagal : 0 
+##JOB_HISTORY
+Sukses : 11 
+Gagal : 0 
+##JOBS
+Sukses : 20 
+Gagal : 0 
+##LOCATIONS
+Sukses : 24 
+Gagal : 0 
+##REGIONS
+Sukses : 5 
+Gagal : 0 
+##TEST
+Sukses : 0 
+Gagal : 0 
+ 
+Total Proses   : 256 Process 
+Total Sukses : 248 Proccess 
+Total Gagal  : 8 Process 
+

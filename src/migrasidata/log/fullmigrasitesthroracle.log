@@ -1,0 +1,40 @@
+Migrasi From MYSQL To ORACLE 
+Source Schema : viji 
+Destination Schema : TESTHR 
+Migration Type : FULL MIGRATION 
+Migration Time : Tue Jul 22 01:59:35 ICT 2014 - Tue Jul 22 02:12:00 ICT 2014
+##COUNTRIES
+     Sukses : 26 
+     Gagal  : 0 
+##DATAPEGAWAI
+     Sukses : 18268 
+     Gagal  : 0 
+##DEPARTMENTS
+     Sukses : 28 
+     Gagal  : 0 
+##EMPLOYEES
+     Sukses : 1 
+     Gagal  : 107 
+##JOBS
+     Sukses : 20 
+     Gagal  : 0 
+##JOB_HISTORY
+     Sukses : 1 
+     Gagal  : 10 
+##KELUARGA
+     Sukses : 1 
+     Gagal  : 71412 
+##LOCATIONS
+     Sukses : 24 
+     Gagal  : 0 
+##REGIONS
+     Sukses : 5 
+     Gagal  : 0 
+##TEST
+     Sukses : 0 
+     Gagal  : 0 
+ 
+Total Proses   : 89943 Process 
+Total Sukses   : 18376 Proccess 
+Total Gagal    : 71567 Process 
+

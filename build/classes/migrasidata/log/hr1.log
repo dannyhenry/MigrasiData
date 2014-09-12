@@ -1,0 +1,34 @@
+Migrasi From ORACLE To MYSQL 
+Source Schema : movehr 
+Destination Schema : HR 
+Migration Type : FULL MIGRATION 
+Migration Time : Thu Aug 21 11:52:21 ICT 2014 - Thu Aug 21 11:52:36 ICT 2014
+##REGIONS
+     Sukses : 5 
+     Gagal  : 0 
+##LOCATIONS
+     Sukses : 24 
+     Gagal  : 0 
+##JOB_HISTORY
+     Sukses : 11 
+     Gagal  : 0 
+##JOBS
+     Sukses : 20 
+     Gagal  : 0 
+##EMPLOYEES
+     Sukses : 108 
+     Gagal  : 0 
+##DEPARTMENTS
+     Sukses : 28 
+     Gagal  : 0 
+##COUNTRIES
+     Sukses : 26 
+     Gagal  : 0 
+##COBA
+     Sukses : 0 
+     Gagal  : 0 
+ 
+Total Proses   : 262 Process 
+Total Sukses   : 261 Proccess 
+Total Gagal    : 1 Process 
+

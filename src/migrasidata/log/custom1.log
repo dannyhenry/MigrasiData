@@ -1,0 +1,16 @@
+Migrasi From ORACLE To MYSQL 
+Source Schema : cobamigrasi3 
+Destination Schema : HR 
+Migration Type : CUSTOM MIGRATION 
+Migration Time : Thu Aug 21 16:06:16 ICT 2014 - Thu Aug 21 16:06:23 ICT 2014
+##LOCATIONS
+     Sukses : 24 
+     Gagal  : 0 
+##EMPLOYEES
+     Sukses : 107 
+     Gagal  : 0 
+ 
+Total Proses   : 145 Process 
+Total Sukses   : 144 Proccess 
+Total Gagal    : 1 Process 
+
